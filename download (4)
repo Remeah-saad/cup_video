@@ -1,0 +1,6 @@
+output/
+data/*.mp4
+!data/.gitkeep
+models/*.pt
+__pycache__/
+*.pyc

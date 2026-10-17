@@ -1,0 +1,8 @@
+video_filename,label,start_timestamp,end_timestamp,duration_sec,start_frame,end_frame,confidence,evidence_based,notes
+cup video.mp4,cup_moved,00:00:01.18,00:00:01.78,0.6,71,107,1.0,True,Observed centroid movement; placement and hand contact are not determined.
+cup video.mp4,cup_moved,00:00:03.60,00:00:04.30,0.7,216,258,1.0,True,Observed centroid movement; placement and hand contact are not determined.
+cup video.mp4,cup_moved,00:00:04.65,00:00:05.90,1.25,279,354,1.0,True,Observed centroid movement; placement and hand contact are not determined.
+cup video.mp4,cup_moved,00:00:06.97,00:00:07.74,0.77,418,464,1.0,True,Observed centroid movement; placement and hand contact are not determined.
+cup video.mp4,cup_moved,00:00:10.22,00:00:10.69,0.47,613,641,1.0,True,Observed centroid movement; placement and hand contact are not determined.
+cup video.mp4,cup_moved,00:00:11.34,00:00:11.92,0.58,680,715,1.0,True,Observed centroid movement; placement and hand contact are not determined.
+cup video.mp4,cup_moved,00:00:13.52,00:00:14.51,0.98,811,870,1.0,True,Observed centroid movement; placement and hand contact are not determined.
